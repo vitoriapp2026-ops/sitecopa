@@ -1,2 +1,2 @@
 # sitecopa
-https://beatrizpimentapequenos.github.io/sitecopa/
+https://vitoriapp2026-ops.github.io/sitecopa/
